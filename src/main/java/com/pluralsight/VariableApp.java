@@ -20,5 +20,6 @@ public class VariableApp {
         System.out.println("My favorite letter is " + favLetter + " !");
         System.out.println("Is it raining? " + isRaining +".");
 
+
     }
 }
