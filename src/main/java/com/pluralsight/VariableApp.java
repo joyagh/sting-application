@@ -13,7 +13,7 @@ public class VariableApp {
         int weekDays = 7;
         float coffeePrice = 4.99f;
         char favLetter = 'J';
-        boolean isRaining = False;
+        boolean isRaining = false;
 
         System.out.println("There are " + weekDays + " in a week!");
         System.out.println("The price of coffee is " + coffeePrice + ".");
